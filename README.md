@@ -28,4 +28,5 @@ This analysis was done to gain insights that would be useful in the future. The 
 
 ## Data visualization 
 
+![](infogram4.png)  ![](infogram2.png)  ![](infogram1.png)
 
