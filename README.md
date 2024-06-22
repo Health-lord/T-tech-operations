@@ -19,6 +19,11 @@ This analysis was done to gain insights that would be useful in the future. The 
 - Annual salary ranges for each career level and tech skill combination.
 - Performance metrics for each career level and tech skill combination.
 
+## Tools utilized
+
+- Ms. Excel was used to collate the dataset: [**Excel**](https://www.microsoft.com/en-us/microsoft-365/excel)
+- Power BI was used for data cleaning, transforming and visualization: [**Power BI**](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+
 ## Data visualization 
 
 
